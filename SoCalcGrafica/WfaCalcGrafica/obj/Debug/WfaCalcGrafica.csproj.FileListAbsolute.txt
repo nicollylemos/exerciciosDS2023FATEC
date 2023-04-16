@@ -1,0 +1,32 @@
+C:\Users\nicol\OneDrive\Área de Trabalho\SoCalcGrafica\WfaCalcGrafica\bin\Debug\CalcGrafica.exe.config
+C:\Users\nicol\OneDrive\Área de Trabalho\SoCalcGrafica\WfaCalcGrafica\bin\Debug\CalcGrafica.exe
+C:\Users\nicol\OneDrive\Área de Trabalho\SoCalcGrafica\WfaCalcGrafica\bin\Debug\CalcGrafica.pdb
+C:\Users\nicol\OneDrive\Área de Trabalho\SoCalcGrafica\WfaCalcGrafica\obj\Debug\WfaCalcGrafica.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive\Área de Trabalho\SoCalcGrafica\WfaCalcGrafica\obj\Debug\WfaCalcGrafica.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicol\OneDrive\Área de Trabalho\SoCalcGrafica\WfaCalcGrafica\obj\Debug\WfaCalcGrafica.FrmCalc.resources
+C:\Users\nicol\OneDrive\Área de Trabalho\SoCalcGrafica\WfaCalcGrafica\obj\Debug\WfaCalcGrafica.Properties.Resources.resources
+C:\Users\nicol\OneDrive\Área de Trabalho\SoCalcGrafica\WfaCalcGrafica\obj\Debug\WfaCalcGrafica.csproj.GenerateResource.cache
+C:\Users\nicol\OneDrive\Área de Trabalho\SoCalcGrafica\WfaCalcGrafica\obj\Debug\WfaCalcGrafica.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Área de Trabalho\SoCalcGrafica\WfaCalcGrafica\obj\Debug\CalcGrafica.exe
+C:\Users\nicol\OneDrive\Área de Trabalho\SoCalcGrafica\WfaCalcGrafica\obj\Debug\CalcGrafica.pdb
+E:\2º ANO\DS\SoCalcGrafica\WfaCalcGrafica\bin\Debug\CalcGrafica.exe.config
+E:\2º ANO\DS\SoCalcGrafica\WfaCalcGrafica\bin\Debug\CalcGrafica.exe
+E:\2º ANO\DS\SoCalcGrafica\WfaCalcGrafica\bin\Debug\CalcGrafica.pdb
+E:\2º ANO\DS\SoCalcGrafica\WfaCalcGrafica\obj\Debug\WfaCalcGrafica.csprojAssemblyReference.cache
+E:\2º ANO\DS\SoCalcGrafica\WfaCalcGrafica\obj\Debug\WfaCalcGrafica.FrmCalc.resources
+E:\2º ANO\DS\SoCalcGrafica\WfaCalcGrafica\obj\Debug\WfaCalcGrafica.Properties.Resources.resources
+E:\2º ANO\DS\SoCalcGrafica\WfaCalcGrafica\obj\Debug\WfaCalcGrafica.csproj.GenerateResource.cache
+E:\2º ANO\DS\SoCalcGrafica\WfaCalcGrafica\obj\Debug\WfaCalcGrafica.csproj.CoreCompileInputs.cache
+E:\2º ANO\DS\SoCalcGrafica\WfaCalcGrafica\obj\Debug\CalcGrafica.exe
+E:\2º ANO\DS\SoCalcGrafica\WfaCalcGrafica\obj\Debug\CalcGrafica.pdb
+D:\2º ANO\DS\SoCalcGrafica\WfaCalcGrafica\bin\Debug\CalcGrafica.exe.config
+D:\2º ANO\DS\SoCalcGrafica\WfaCalcGrafica\bin\Debug\CalcGrafica.exe
+D:\2º ANO\DS\SoCalcGrafica\WfaCalcGrafica\bin\Debug\CalcGrafica.pdb
+D:\2º ANO\DS\SoCalcGrafica\WfaCalcGrafica\obj\Debug\WfaCalcGrafica.csproj.AssemblyReference.cache
+D:\2º ANO\DS\SoCalcGrafica\WfaCalcGrafica\obj\Debug\WfaCalcGrafica.csproj.SuggestedBindingRedirects.cache
+D:\2º ANO\DS\SoCalcGrafica\WfaCalcGrafica\obj\Debug\WfaCalcGrafica.FrmCalc.resources
+D:\2º ANO\DS\SoCalcGrafica\WfaCalcGrafica\obj\Debug\WfaCalcGrafica.Properties.Resources.resources
+D:\2º ANO\DS\SoCalcGrafica\WfaCalcGrafica\obj\Debug\WfaCalcGrafica.csproj.GenerateResource.cache
+D:\2º ANO\DS\SoCalcGrafica\WfaCalcGrafica\obj\Debug\WfaCalcGrafica.csproj.CoreCompileInputs.cache
+D:\2º ANO\DS\SoCalcGrafica\WfaCalcGrafica\obj\Debug\CalcGrafica.exe
+D:\2º ANO\DS\SoCalcGrafica\WfaCalcGrafica\obj\Debug\CalcGrafica.pdb
